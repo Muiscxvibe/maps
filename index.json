@@ -14,6 +14,21 @@
       "id": "cand-land-hg",
       "name": "Cand Land Hg",
       "version": "1"
+    },
+    {
+      "description": "Cityofruins",
+      "files": [
+        {
+          "asset": "cityofruins.mc195world.zip",
+          "path": "cityofruins.mc195world.zip",
+          "sha256": "78d1104ab1332ae4258503301d4d99932d3d62660c2013e4a72fb70b5b330f11",
+          "size": 4875939,
+          "url": "https://github.com/Muiscxvibe/maps/releases/download/cityofruins-v1/cityofruins.mc195world.zip"
+        }
+      ],
+      "id": "cityofruins",
+      "name": "Cityofruins",
+      "version": "1"
     }
   ],
   "repo": "maps",
