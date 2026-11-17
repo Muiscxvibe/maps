@@ -74,6 +74,21 @@
       "id": "competitive-ctf-map-may-24th-2013",
       "name": "Competitive Ctf Map May 24th 2013",
       "version": "1"
+    },
+    {
+      "description": "Competitive Ctf Mar 27th 2013",
+      "files": [
+        {
+          "asset": "competitive-ctf-mar-27th-2013.mc195world.zip",
+          "path": "competitive-ctf-mar-27th-2013.mc195world.zip",
+          "sha256": "5d5b4b9ad798ec738f63108a54aae522cd7f3ecd3d0f35d54f70950b47195b30",
+          "size": 6328751,
+          "url": "https://github.com/Muiscxvibe/maps/releases/download/competitive-ctf-mar-27th-2013-v1/competitive-ctf-mar-27th-2013.mc195world.zip"
+        }
+      ],
+      "id": "competitive-ctf-mar-27th-2013",
+      "name": "Competitive Ctf Mar 27th 2013",
+      "version": "1"
     }
   ],
   "repo": "maps",
