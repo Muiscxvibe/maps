@@ -149,6 +149,21 @@
       "id": "drainage-2",
       "name": "Drainage 2",
       "version": "1"
+    },
+    {
+      "description": "Fateindustries Pack",
+      "files": [
+        {
+          "asset": "fateindustries-pack.mc195world.zip",
+          "path": "fateindustries-pack.mc195world.zip",
+          "sha256": "1eaa048fc5199f5026d4de343a72f5f1215a399ec87b1a62757613725f592e0f",
+          "size": 113143272,
+          "url": "https://github.com/Muiscxvibe/maps/releases/download/fateindustries-pack-v1/fateindustries-pack.mc195world.zip"
+        }
+      ],
+      "id": "fateindustries-pack",
+      "name": "Fateindustries Pack",
+      "version": "1"
     }
   ],
   "repo": "maps",
