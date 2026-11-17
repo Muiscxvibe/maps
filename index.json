@@ -359,6 +359,21 @@
       "id": "skyworld",
       "name": "Skyworld",
       "version": "1"
+    },
+    {
+      "description": "Spongebob Squarepants",
+      "files": [
+        {
+          "asset": "spongebob-squarepants.mc195world.zip",
+          "path": "spongebob-squarepants.mc195world.zip",
+          "sha256": "f6cbfa925408e31981261b2b41f469c01b6daa5f023236a2987d0eac787169be",
+          "size": 4754092,
+          "url": "https://github.com/Muiscxvibe/maps/releases/download/spongebob-squarepants-v1/spongebob-squarepants.mc195world.zip"
+        }
+      ],
+      "id": "spongebob-squarepants",
+      "name": "Spongebob Squarepants",
+      "version": "1"
     }
   ],
   "repo": "maps",
