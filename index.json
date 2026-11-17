@@ -479,6 +479,21 @@
       "id": "tu12tutorial",
       "name": "Tu12tutorial",
       "version": "1"
+    },
+    {
+      "description": "Tu7",
+      "files": [
+        {
+          "asset": "tu7.mc195world.zip",
+          "path": "tu7.mc195world.zip",
+          "sha256": "00d38ab8c63a373e683b5c971628584fd85730eceac595966dd5c4f84a668dfe",
+          "size": 5996112,
+          "url": "https://github.com/Muiscxvibe/maps/releases/download/tu7-v1/tu7.mc195world.zip"
+        }
+      ],
+      "id": "tu7",
+      "name": "Tu7",
+      "version": "1"
     }
   ],
   "repo": "maps",
