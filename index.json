@@ -314,6 +314,21 @@
       "id": "sails-worlds",
       "name": "Sails Worlds",
       "version": "1"
+    },
+    {
+      "description": "Skyblock",
+      "files": [
+        {
+          "asset": "skyblock.mc195world.zip",
+          "path": "skyblock.mc195world.zip",
+          "sha256": "66fc38e6b52b9f87b204e4cafc36f7746fc0a4eb43c0af8a30c368d917e5e5ab",
+          "size": 479130,
+          "url": "https://github.com/Muiscxvibe/maps/releases/download/skyblock-v1/skyblock.mc195world.zip"
+        }
+      ],
+      "id": "skyblock",
+      "name": "Skyblock",
+      "version": "1"
     }
   ],
   "repo": "maps",
