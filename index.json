@@ -284,6 +284,21 @@
       "id": "pig-fishing",
       "name": "Pig Fishing",
       "version": "1"
+    },
+    {
+      "description": "Redv1blue",
+      "files": [
+        {
+          "asset": "redv1blue.mc195world.zip",
+          "path": "redv1blue.mc195world.zip",
+          "sha256": "5199be0cc4b939cbcbd2e0a93e8646bfb602ca30188e4029a0daf47e53eee3a4",
+          "size": 509089,
+          "url": "https://github.com/Muiscxvibe/maps/releases/download/redv1blue-v1/redv1blue.mc195world.zip"
+        }
+      ],
+      "id": "redv1blue",
+      "name": "Redv1blue",
+      "version": "1"
     }
   ],
   "repo": "maps",
