@@ -299,6 +299,21 @@
       "id": "redv1blue",
       "name": "Redv1blue",
       "version": "1"
+    },
+    {
+      "description": "Sails Worlds",
+      "files": [
+        {
+          "asset": "sails-worlds.mc195world.zip",
+          "path": "sails-worlds.mc195world.zip",
+          "sha256": "75cadbc9371814a8bb1dbdca9e05bfe2c3b286a171c55c35d237a28cb783989e",
+          "size": 1125009,
+          "url": "https://github.com/Muiscxvibe/maps/releases/download/sails-worlds-v1/sails-worlds.mc195world.zip"
+        }
+      ],
+      "id": "sails-worlds",
+      "name": "Sails Worlds",
+      "version": "1"
     }
   ],
   "repo": "maps",
