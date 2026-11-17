@@ -89,6 +89,21 @@
       "id": "competitive-ctf-mar-27th-2013",
       "name": "Competitive Ctf Mar 27th 2013",
       "version": "1"
+    },
+    {
+      "description": "Dantdms Lab",
+      "files": [
+        {
+          "asset": "dantdms-lab.mc195world.zip",
+          "path": "dantdms-lab.mc195world.zip",
+          "sha256": "b1114bc103e65bd927d79f393d06af805dc54d8bb1a31aa819c0e05965419fa7",
+          "size": 1648370,
+          "url": "https://github.com/Muiscxvibe/maps/releases/download/dantdms-lab-v1/dantdms-lab.mc195world.zip"
+        }
+      ],
+      "id": "dantdms-lab",
+      "name": "Dantdms Lab",
+      "version": "1"
     }
   ],
   "repo": "maps",
