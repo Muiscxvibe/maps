@@ -209,6 +209,21 @@
       "id": "lce-7-eleven",
       "name": "Lce 7 Eleven",
       "version": "1"
+    },
+    {
+      "description": "Lce Flatgrass",
+      "files": [
+        {
+          "asset": "lce-flatgrass.mc195world.zip",
+          "path": "lce-flatgrass.mc195world.zip",
+          "sha256": "e717a7e7d57b6fac04f8f108224dd78bb961b47b65692b5a9e088a0c12457515",
+          "size": 709609,
+          "url": "https://github.com/Muiscxvibe/maps/releases/download/lce-flatgrass-v1/lce-flatgrass.mc195world.zip"
+        }
+      ],
+      "id": "lce-flatgrass",
+      "name": "Lce Flatgrass",
+      "version": "1"
     }
   ],
   "repo": "maps",
