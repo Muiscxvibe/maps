@@ -164,6 +164,21 @@
       "id": "fateindustries-pack",
       "name": "Fateindustries Pack",
       "version": "1"
+    },
+    {
+      "description": "Fnaf 1",
+      "files": [
+        {
+          "asset": "fnaf-1.mc195world.zip",
+          "path": "fnaf-1.mc195world.zip",
+          "sha256": "b81057b31cd03a4ac1cbea8471891097bc56e6e4de30a3df927d10054bda3368",
+          "size": 994298,
+          "url": "https://github.com/Muiscxvibe/maps/releases/download/fnaf-1-v1/fnaf-1.mc195world.zip"
+        }
+      ],
+      "id": "fnaf-1",
+      "name": "Fnaf 1",
+      "version": "1"
     }
   ],
   "repo": "maps",
