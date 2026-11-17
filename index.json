@@ -404,6 +404,21 @@
       "id": "stampy-lovely-world-tu19",
       "name": "Stampy Lovely World Tu19",
       "version": "1"
+    },
+    {
+      "description": "Stampys Bedroom Hg",
+      "files": [
+        {
+          "asset": "stampys-bedroom-hg.mc195world.zip",
+          "path": "stampys-bedroom-hg.mc195world.zip",
+          "sha256": "cc48baacea6f3d460baf7bedbee1418f5fa6eefa2eea59bbfbed59811eafdcbc",
+          "size": 1178090,
+          "url": "https://github.com/Muiscxvibe/maps/releases/download/stampys-bedroom-hg-v1/stampys-bedroom-hg.mc195world.zip"
+        }
+      ],
+      "id": "stampys-bedroom-hg",
+      "name": "Stampys Bedroom Hg",
+      "version": "1"
     }
   ],
   "repo": "maps",
