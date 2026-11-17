@@ -44,6 +44,21 @@
       "id": "cod4-shipment",
       "name": "Cod4 Shipment",
       "version": "1"
+    },
+    {
+      "description": "Comparison World",
+      "files": [
+        {
+          "asset": "comparison-world.mc195world.zip",
+          "path": "comparison-world.mc195world.zip",
+          "sha256": "5a46dddc5585435d5a8fabe27ff85f1328b63f7a3d89685f5927725ec662c9ad",
+          "size": 481602,
+          "url": "https://github.com/Muiscxvibe/maps/releases/download/comparison-world-v1/comparison-world.mc195world.zip"
+        }
+      ],
+      "id": "comparison-world",
+      "name": "Comparison World",
+      "version": "1"
     }
   ],
   "repo": "maps",
