@@ -464,6 +464,21 @@
       "id": "tu0-tutorial",
       "name": "Tu0 Tutorial",
       "version": "1"
+    },
+    {
+      "description": "Tu12tutorial",
+      "files": [
+        {
+          "asset": "tu12tutorial.mc195world.zip",
+          "path": "tu12tutorial.mc195world.zip",
+          "sha256": "7fdface07c5fd379278be2a301a7f7b80d4bb51f68950ecc21d467308640fac8",
+          "size": 8802751,
+          "url": "https://github.com/Muiscxvibe/maps/releases/download/tu12tutorial-v1/tu12tutorial.mc195world.zip"
+        }
+      ],
+      "id": "tu12tutorial",
+      "name": "Tu12tutorial",
+      "version": "1"
     }
   ],
   "repo": "maps",
