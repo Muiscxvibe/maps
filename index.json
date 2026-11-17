@@ -389,6 +389,21 @@
       "id": "stampy-lovely-world-2000",
       "name": "Stampy Lovely World 2000",
       "version": "1"
+    },
+    {
+      "description": "Stampy Lovely World Tu19",
+      "files": [
+        {
+          "asset": "stampy-lovely-world-tu19.mc195world.zip",
+          "path": "stampy-lovely-world-tu19.mc195world.zip",
+          "sha256": "6c143e4b891f3df2dfc2570dfd4f81590e25abf73fe55c0bb810cde8139c3a0c",
+          "size": 9211839,
+          "url": "https://github.com/Muiscxvibe/maps/releases/download/stampy-lovely-world-tu19-v1/stampy-lovely-world-tu19.mc195world.zip"
+        }
+      ],
+      "id": "stampy-lovely-world-tu19",
+      "name": "Stampy Lovely World Tu19",
+      "version": "1"
     }
   ],
   "repo": "maps",
