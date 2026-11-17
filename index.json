@@ -224,6 +224,21 @@
       "id": "lce-flatgrass",
       "name": "Lce Flatgrass",
       "version": "1"
+    },
+    {
+      "description": "Mario Universe Hg",
+      "files": [
+        {
+          "asset": "mario-universe-hg.mc195world.zip",
+          "path": "mario-universe-hg.mc195world.zip",
+          "sha256": "58f7f8f507291f18ea93ca72636e3e0c20e6a67804d43375925610100cd9e08b",
+          "size": 1421653,
+          "url": "https://github.com/Muiscxvibe/maps/releases/download/mario-universe-hg-v1/mario-universe-hg.mc195world.zip"
+        }
+      ],
+      "id": "mario-universe-hg",
+      "name": "Mario Universe Hg",
+      "version": "1"
     }
   ],
   "repo": "maps",
