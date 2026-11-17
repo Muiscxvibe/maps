@@ -119,6 +119,21 @@
       "id": "de-dust2",
       "name": "De Dust2",
       "version": "1"
+    },
+    {
+      "description": "Drainage 1",
+      "files": [
+        {
+          "asset": "drainage-1.mc195world.zip",
+          "path": "drainage-1.mc195world.zip",
+          "sha256": "073128deae39b811fbc6358c24e41f5ba28992a64de77af9b2239bae1759d049",
+          "size": 529863,
+          "url": "https://github.com/Muiscxvibe/maps/releases/download/drainage-1-v1/drainage-1.mc195world.zip"
+        }
+      ],
+      "id": "drainage-1",
+      "name": "Drainage 1",
+      "version": "1"
     }
   ],
   "repo": "maps",
