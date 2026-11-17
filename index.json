@@ -451,6 +451,21 @@
       "version": "1"
     },
     {
+      "description": "Tu Flathub",
+      "files": [
+        {
+          "asset": "tu-flathub.mc195world.zip",
+          "path": "tu-flathub.mc195world.zip",
+          "sha256": "94a8076bc1739c15dfa0d1f0bae84ef24a97278f9e2d71fa0e7265204dfbe695",
+          "size": 673633,
+          "url": "https://github.com/Muiscxvibe/maps/releases/download/tu-flathub-v1/tu-flathub.mc195world.zip"
+        }
+      ],
+      "id": "tu-flathub",
+      "name": "Tu Flathub",
+      "version": "1"
+    },
+    {
       "description": "Tu0 Tutorial",
       "files": [
         {
