@@ -329,6 +329,21 @@
       "id": "skyblock",
       "name": "Skyblock",
       "version": "1"
+    },
+    {
+      "description": "Skywars",
+      "files": [
+        {
+          "asset": "skywars.mc195world.zip",
+          "path": "skywars.mc195world.zip",
+          "sha256": "b7312a20a513851713513f3c131d4badabf52b018cffe0ed9c3a2d4609fa4f8b",
+          "size": 1115064,
+          "url": "https://github.com/Muiscxvibe/maps/releases/download/skywars-v1/skywars.mc195world.zip"
+        }
+      ],
+      "id": "skywars",
+      "name": "Skywars",
+      "version": "1"
     }
   ],
   "repo": "maps",
