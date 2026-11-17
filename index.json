@@ -254,6 +254,21 @@
       "id": "moddedcity",
       "name": "Moddedcity",
       "version": "1"
+    },
+    {
+      "description": "Pcgamer",
+      "files": [
+        {
+          "asset": "pcgamer.mc195world.zip",
+          "path": "pcgamer.mc195world.zip",
+          "sha256": "1f8d42366f6e5cb085e7d014fdef013160216700bd433c130daa2796a2f7a971",
+          "size": 7298507,
+          "url": "https://github.com/Muiscxvibe/maps/releases/download/pcgamer-v1/pcgamer.mc195world.zip"
+        }
+      ],
+      "id": "pcgamer",
+      "name": "Pcgamer",
+      "version": "1"
     }
   ],
   "repo": "maps",
