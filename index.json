@@ -239,6 +239,21 @@
       "id": "mario-universe-hg",
       "name": "Mario Universe Hg",
       "version": "1"
+    },
+    {
+      "description": "Moddedcity",
+      "files": [
+        {
+          "asset": "moddedcity.mc195world.zip",
+          "path": "moddedcity.mc195world.zip",
+          "sha256": "78f1435b7b880c6148bf4adeab1a70a074f6fbd3b2cd14d94d26ccf1d234999d",
+          "size": 11100673,
+          "url": "https://github.com/Muiscxvibe/maps/releases/download/moddedcity-v1/moddedcity.mc195world.zip"
+        }
+      ],
+      "id": "moddedcity",
+      "name": "Moddedcity",
+      "version": "1"
     }
   ],
   "repo": "maps",
