@@ -269,6 +269,21 @@
       "id": "pcgamer",
       "name": "Pcgamer",
       "version": "1"
+    },
+    {
+      "description": "Pig Fishing",
+      "files": [
+        {
+          "asset": "pig-fishing.mc195world.zip",
+          "path": "pig-fishing.mc195world.zip",
+          "sha256": "943c41ccf78f77bd045a4d3c1bd98283a5501f72ca4e7f5a968727bc27912ff1",
+          "size": 919621,
+          "url": "https://github.com/Muiscxvibe/maps/releases/download/pig-fishing-v1/pig-fishing.mc195world.zip"
+        }
+      ],
+      "id": "pig-fishing",
+      "name": "Pig Fishing",
+      "version": "1"
     }
   ],
   "repo": "maps",
