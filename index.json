@@ -419,6 +419,21 @@
       "id": "stampys-bedroom-hg",
       "name": "Stampys Bedroom Hg",
       "version": "1"
+    },
+    {
+      "description": "Theswordofalzcar",
+      "files": [
+        {
+          "asset": "theswordofalzcar.mc195world.zip",
+          "path": "theswordofalzcar.mc195world.zip",
+          "sha256": "a7fed2062dd7a15f42d02d9fb9fe409a863326aab56b8e2792b14674c553dfd8",
+          "size": 7595858,
+          "url": "https://github.com/Muiscxvibe/maps/releases/download/theswordofalzcar-v1/theswordofalzcar.mc195world.zip"
+        }
+      ],
+      "id": "theswordofalzcar",
+      "name": "Theswordofalzcar",
+      "version": "1"
     }
   ],
   "repo": "maps",
