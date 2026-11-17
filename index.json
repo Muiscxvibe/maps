@@ -374,6 +374,21 @@
       "id": "spongebob-squarepants",
       "name": "Spongebob Squarepants",
       "version": "1"
+    },
+    {
+      "description": "Stampy Lovely World 2000",
+      "files": [
+        {
+          "asset": "stampy-lovely-world-2000.mc195world.zip",
+          "path": "stampy-lovely-world-2000.mc195world.zip",
+          "sha256": "22d8055e1a49b380816987f24466ccb43895110ac232283d2e906caab641ba04",
+          "size": 8727714,
+          "url": "https://github.com/Muiscxvibe/maps/releases/download/stampy-lovely-world-2000-v1/stampy-lovely-world-2000.mc195world.zip"
+        }
+      ],
+      "id": "stampy-lovely-world-2000",
+      "name": "Stampy Lovely World 2000",
+      "version": "1"
     }
   ],
   "repo": "maps",
