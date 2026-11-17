@@ -194,6 +194,21 @@
       "id": "glacier",
       "name": "Glacier",
       "version": "1"
+    },
+    {
+      "description": "Lce 7 Eleven",
+      "files": [
+        {
+          "asset": "lce-7-eleven.mc195world.zip",
+          "path": "lce-7-eleven.mc195world.zip",
+          "sha256": "140cd9a8de5bc879b9bf2e9803050bb6e55058a39343594d9545f2eb79663458",
+          "size": 386280,
+          "url": "https://github.com/Muiscxvibe/maps/releases/download/lce-7-eleven-v1/lce-7-eleven.mc195world.zip"
+        }
+      ],
+      "id": "lce-7-eleven",
+      "name": "Lce 7 Eleven",
+      "version": "1"
     }
   ],
   "repo": "maps",
