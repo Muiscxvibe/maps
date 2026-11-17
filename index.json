@@ -434,6 +434,21 @@
       "id": "theswordofalzcar",
       "name": "Theswordofalzcar",
       "version": "1"
+    },
+    {
+      "description": "Thevoid",
+      "files": [
+        {
+          "asset": "thevoid.mc195world.zip",
+          "path": "thevoid.mc195world.zip",
+          "sha256": "df11485b19d26cb459a5caca3b4e9c5fc84efd856e2fb229f55637b581868566",
+          "size": 1094726,
+          "url": "https://github.com/Muiscxvibe/maps/releases/download/thevoid-v1/thevoid.mc195world.zip"
+        }
+      ],
+      "id": "thevoid",
+      "name": "Thevoid",
+      "version": "1"
     }
   ],
   "repo": "maps",
