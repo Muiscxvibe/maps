@@ -134,6 +134,21 @@
       "id": "drainage-1",
       "name": "Drainage 1",
       "version": "1"
+    },
+    {
+      "description": "Drainage 2",
+      "files": [
+        {
+          "asset": "drainage-2.mc195world.zip",
+          "path": "drainage-2.mc195world.zip",
+          "sha256": "df60da7341eca385032e6b4c9c3eca82b159185c8a51f7632564c06c978b4669",
+          "size": 532130,
+          "url": "https://github.com/Muiscxvibe/maps/releases/download/drainage-2-v1/drainage-2.mc195world.zip"
+        }
+      ],
+      "id": "drainage-2",
+      "name": "Drainage 2",
+      "version": "1"
     }
   ],
   "repo": "maps",
