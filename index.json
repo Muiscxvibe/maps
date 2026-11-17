@@ -1,5 +1,21 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": "Cand Land Hg",
+      "files": [
+        {
+          "asset": "cand-land-hg.mc195world.zip",
+          "path": "cand-land-hg.mc195world.zip",
+          "sha256": "11d7584755ee654b81b5d48e4e0770f7dc2b703071017f465cac8d51dda87b64",
+          "size": 8257576,
+          "url": "https://github.com/Muiscxvibe/maps/releases/download/cand-land-hg-v1/cand-land-hg.mc195world.zip"
+        }
+      ],
+      "id": "cand-land-hg",
+      "name": "Cand Land Hg",
+      "version": "1"
+    }
+  ],
   "repo": "maps",
   "schema": 1,
   "type": "map"
