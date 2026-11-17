@@ -29,6 +29,21 @@
       "id": "cityofruins",
       "name": "Cityofruins",
       "version": "1"
+    },
+    {
+      "description": "Cod4 Shipment",
+      "files": [
+        {
+          "asset": "cod4-shipment.mc195world.zip",
+          "path": "cod4-shipment.mc195world.zip",
+          "sha256": "821be0d17183a6137d3723b7c0dc0d7f6cf0e8fb08a83377e448cf2967c82bb9",
+          "size": 850515,
+          "url": "https://github.com/Muiscxvibe/maps/releases/download/cod4-shipment-v1/cod4-shipment.mc195world.zip"
+        }
+      ],
+      "id": "cod4-shipment",
+      "name": "Cod4 Shipment",
+      "version": "1"
     }
   ],
   "repo": "maps",
