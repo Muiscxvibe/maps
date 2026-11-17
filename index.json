@@ -104,6 +104,21 @@
       "id": "dantdms-lab",
       "name": "Dantdms Lab",
       "version": "1"
+    },
+    {
+      "description": "De Dust2",
+      "files": [
+        {
+          "asset": "de-dust2.mc195world.zip",
+          "path": "de-dust2.mc195world.zip",
+          "sha256": "c60eafdaae88ef6c6202ece7b1113ebed7d7cfc90c07bcd43ae0f9396019dec8",
+          "size": 418260,
+          "url": "https://github.com/Muiscxvibe/maps/releases/download/de-dust2-v1/de-dust2.mc195world.zip"
+        }
+      ],
+      "id": "de-dust2",
+      "name": "De Dust2",
+      "version": "1"
     }
   ],
   "repo": "maps",
