@@ -449,6 +449,21 @@
       "id": "thevoid",
       "name": "Thevoid",
       "version": "1"
+    },
+    {
+      "description": "Tu0 Tutorial",
+      "files": [
+        {
+          "asset": "tu0-tutorial.mc195world.zip",
+          "path": "tu0-tutorial.mc195world.zip",
+          "sha256": "0688c4c81df375c91956406adff0dda06336a692c114ed1edd4beb62df5b6fb3",
+          "size": 4631921,
+          "url": "https://github.com/Muiscxvibe/maps/releases/download/tu0-tutorial-v1/tu0-tutorial.mc195world.zip"
+        }
+      ],
+      "id": "tu0-tutorial",
+      "name": "Tu0 Tutorial",
+      "version": "1"
     }
   ],
   "repo": "maps",
