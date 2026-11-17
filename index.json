@@ -179,6 +179,21 @@
       "id": "fnaf-1",
       "name": "Fnaf 1",
       "version": "1"
+    },
+    {
+      "description": "Glacier",
+      "files": [
+        {
+          "asset": "glacier.mc195world.zip",
+          "path": "glacier.mc195world.zip",
+          "sha256": "c4af56be7c48ef0b4c67653d85d7a0bf2302dbe50c56b03a175b9254fae0cead",
+          "size": 9116599,
+          "url": "https://github.com/Muiscxvibe/maps/releases/download/glacier-v1/glacier.mc195world.zip"
+        }
+      ],
+      "id": "glacier",
+      "name": "Glacier",
+      "version": "1"
     }
   ],
   "repo": "maps",
