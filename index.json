@@ -59,6 +59,21 @@
       "id": "comparison-world",
       "name": "Comparison World",
       "version": "1"
+    },
+    {
+      "description": "Competitive Ctf Map May 24th 2013",
+      "files": [
+        {
+          "asset": "competitive-ctf-map-may-24th-2013.mc195world.zip",
+          "path": "competitive-ctf-map-may-24th-2013.mc195world.zip",
+          "sha256": "f606db54322a8691706b3e1400a1bda0e138840bcc16d3bf22b6a98abb89e670",
+          "size": 1283525,
+          "url": "https://github.com/Muiscxvibe/maps/releases/download/competitive-ctf-map-may-24th-2013-v1/competitive-ctf-map-may-24th-2013.mc195world.zip"
+        }
+      ],
+      "id": "competitive-ctf-map-may-24th-2013",
+      "name": "Competitive Ctf Map May 24th 2013",
+      "version": "1"
     }
   ],
   "repo": "maps",
